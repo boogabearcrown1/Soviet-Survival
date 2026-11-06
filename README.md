@@ -201,3 +201,6 @@ This repository serves as the official landing page for Soviet Survival. The sof
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Soviet Survival today!**
+
+---
+**Last updated:** 2026-11-06 12:42:24 UTC
