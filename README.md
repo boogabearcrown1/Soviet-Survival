@@ -203,4 +203,4 @@ This repository serves as the official landing page for Soviet Survival. The sof
 **Get the most recent version of Soviet Survival today!**
 
 ---
-**Last updated:** 2026-11-12 09:16:19 UTC
+**Last updated:** 2026-11-12 17:54:28 UTC
